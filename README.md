@@ -54,5 +54,5 @@ Files / Tasks | Description
 
 ## Authors
 
-* Alex Carrasquillo <a href="https://github.com/YuranyUlchur" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
+* Alex Carrasquillo <a href="https://github.com/alexpr42" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
 * Roger G Rosado <a href="https://github.com/Rogergrosado" rel="nofollow"><img align="center" alt="github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="24" /></a>
