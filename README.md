@@ -16,7 +16,6 @@ A Binary tree is represented by a pointer to the topmost node (commonly known as
 
 <br>
 
-<img src="https://i.imgur.com/SE13ZbO.jpg" alt="Binary-tree">
 
 <hr>
 
